@@ -1,2 +1,19 @@
-# hotds2w8
-Sigils, Seats, Words - 2023 Trivia Szn Week 8
+q "**Name the house!**"
+a
+i
+
+q "**Name the house!**"
+a
+i
+
+q "**Name the house!**"
+a
+i
+
+q "**Name the house!**"
+a
+i
+
+q "**Name the house!**"
+a
+i
