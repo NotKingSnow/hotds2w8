@@ -1,6 +1,6 @@
 q "**Name the house!**"
-a
-i
+a "House Ambrose", "Ambrose"
+i "https://i.imgur.com/OlhCyoE.jpg"
 
 q "**Name the house!**"
 a
@@ -159,11 +159,41 @@ a "Ours Is The Fury"
 q "**What are the words of House Flint of Widow's Watch?**"
 a "Ever Vigilant"
 
-q "**What are the words of House ?**"
-a
+q "**What are the words of House Mormont?**"
+a "Here We Stand"
 
-q "**What are the words of House ?**"
-a
+q "**What are the words of House Oakheart?**"
+a "Our Roots Go Deep"
 
-q "**What are the words of House ?**"
-a
+q "**What are the words of House Royce of Runestone?**"
+a "We Remember"
+
+q "**'The Sun of Winter' are the words of what House?**"
+a "House Karstark", "Karstark"
+
+q "**'Behold Our Bounty' are the words of what House?**"
+a "House Merryweather", "Merryweather"
+
+q "**'Burning Bright' are the words of what House?**"
+a "House Marbrand", "Marbrand"
+
+q "**'As High As Honor' are the words of what House?**"
+a "House Arryn of the Eyrie", "House Arryn", "Arryn"
+
+q "**'Beware Our Sting' are the words of what House?**"
+a "House Beesbury", "Beesbury"
+
+q "**'The Wind Our Steed' are the words of what House?**"
+a "House Farman", "Farman"
+
+q "**'Let Me Soar' are the words of what House?**"
+a "House Fowler", "Fowler"
+
+q "**'None So Dutiful' are the words of what House?**"
+a "House Hastwyck", "Hastwyck"
+
+q "**'Hear Me Roar!' are the words of what House?**"
+a "House Lannister of Casterly Rock", "House Lannister", "Lannister"
+
+q "**'Winter Is Coming' are the words of what House?**"
+a "House Stark"
